@@ -1,2 +1,2 @@
 # CephOnRam
-A poster presented a Ceph Day Cern
+A poster presented at Ceph Day Cern 2019
